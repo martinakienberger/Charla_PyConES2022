@@ -1,4 +1,4 @@
-# Charla_PyConES2018
+# Charla_PyConES2022
 Presentación **"Análisis de encuestas con Python"** (charla en la PyConES 2022 en Granada)
 
 *Abstract*:
